@@ -4,7 +4,7 @@ let introPhrase = "Hi, I am an AI and my number is ";
 let numberCode = 371;
 console.log(introPhrase + numberCode);
 
-// `+` operator is concatenating a string and a number
+// `+` operator is concatenating a string and a number (or integer) and converts it all into a string.
 
 // #### 2. Converting 
 // * Create a variable with the value of "1005". Convert it to a number.
